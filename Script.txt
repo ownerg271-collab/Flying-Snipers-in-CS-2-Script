@@ -1,0 +1,4 @@
+# Flying-Snipers-in-CS-2-Script
+sv_cheats 1; weapon_accuracy_nospread 1; sv_gravity 230; mp_freezetime 3; mp_buy_allow_guns 0; mp_weapons_allow_zeus 0; mp_weapons_allow_typecount 0; mp_buy_allow_grenades 0; mp_free_armor 2; mp_t_default_secondary weapon_0; mp_t_default_primary weapon_ssg08; mp_ct_default_secondary weapon_0; mp_ct_default_primary weapon_ssg08; mp_friendlyfire 0; mp_defuser_allocation 2; mp_restartgame 1; mp_warmup_start; mp_warmuptime 1000000; 
+If you want to delete bots: bot_kick
+sv_cheats 1; weapon_accuracy_nospread 1; sv_gravity 230; mp_freezetime 3; mp_buy_allow_guns 0; mp_weapons_allow_zeus 0; mp_weapons_allow_typecount 0; mp_buy_allow_grenades 0; mp_free_armor 2; mp_t_default_secondary weapon_0; mp_t_default_primary weapon_ssg08; mp_ct_default_secondary weapon_0; mp_ct_default_primary weapon_ssg08; mp_friendlyfire 0; mp_defuser_allocation 2; mp_restartgame 1; mp_warmup_start; mp_warmuptime 1000000; bot_kick;
